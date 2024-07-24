@@ -1,0 +1,61 @@
+@media screen and (min-width: 1000px) {
+    
+    body{
+        background: hsl(30, 54%, 90%);
+    }
+    .contenedor{
+        width: 50%;
+        background: white;
+        margin: 110px auto;
+        padding: 40px;
+        border-radius: 20px;
+    }
+
+    .foto-receta{
+        border-radius: 20px;
+    }
+
+    .principal{
+        width: 100%;
+    }
+
+    .time{
+        width: 100%;
+    }
+
+    li{
+        width: 100%;
+    }
+
+
+
+
+
+
+
+    .sub-titulo-lista{
+        width: 100%;
+    }
+    
+    .ingredientes{
+        width: 100%;
+    }
+    
+    hr{
+        width: 100%;
+    }
+    
+    ol li{
+        width: 100%;
+    }
+    
+    .respaldo-titulo-nutricion{
+        width: 100%;
+    }
+    
+    .separador-datos{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    }
